@@ -1,0 +1,23 @@
+MPEG audio header not found. ___ F:\Music\AC DC\ACDC - Baby, Please Don't Go.mp3
+MPEG audio header not found. ___ F:\Music\AC DC\ACDC - Jailbreak.mp3
+MPEG audio header not found. ___ F:\Music\AC DC\ACDC - Show Bisiness.mp3
+MPEG audio header not found. ___ F:\Music\AC DC\ACDC - Soul Stripper.mp3
+MPEG audio header not found. ___ F:\Music\AC DC\ACDC - You Ain't Got A Hold On Me.mp3
+MPEG audio header not found. ___ F:\Music\Akon\Akon - Lonely.mp3
+MPEG audio header not found. ___ F:\Music\Cassidy\Cassidy - My Drink N' My 2 Step (feat. Swizz Beatz).mp3
+MPEG audio header not found. ___ F:\Music\Chuck Berry\Chuck Berry - Nadine (Is It You).mp3
+MPEG audio header not found. ___ F:\Music\Chuck Berry\Chuck Berry - The Promised Land.mp3
+MPEG audio header not found. ___ F:\Music\Chuck Wicks\Chuck Wicks - All I Ever Wanted.mp3
+MPEG audio header not found. ___ F:\Music\Chumbawamba\Chumbawamba - Tubthumping.mp3
+MPEG audio header not found. ___ F:\Music\Church\Church - Under The Milky Way.mp3
+MPEG audio header not found. ___ F:\Music\Ciara\Ciara - Can't Leave 'Em Alone.mp3
+MPEG audio header not found. ___ F:\Music\Ciara\Ciara - Goodies (remix feat. T.I.).mp3
+MPEG audio header not found. ___ F:\Music\Ciara\Ciara - Like A Boy.mp3
+MPEG audio header not found. ___ F:\Music\Ciara\Ciara - Oh (feat. Ludacris).mp3
+MPEG audio header not found. ___ F:\Music\Cinderella\Cinderella - Heartbreak Station.mp3
+MPEG audio header not found. ___ F:\Music\Cinderella\Cinderella - The Last Mile.mp3
+MPEG audio header not found. ___ F:\Music\Claude Dubois\Claude Dubois - Comme Un Voyou.mp3
+MPEG audio header not found. ___ F:\Music\Clay Walker\Clay Walker - Who Needs You Baby.mp3
+MPEG audio header not found. ___ F:\Music\Cledus T. Judd\Cledus T. Judd - Everybody's Free (To Get Sunburn).mp3
+MPEG audio header not found. ___ F:\Music\Sloan\Sloan - Who Taught You To Live Like That.mp3
+Access to the path 'F:\System Volume Information\' is denied. ___ F:\
